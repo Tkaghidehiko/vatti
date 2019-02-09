@@ -28,4 +28,5 @@
 .byebug_history
 
 # Ignore master key for decrypting credentials and more.
+/vendor/bundle
 /config/master.key
